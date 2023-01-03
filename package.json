@@ -1,0 +1,16 @@
+{
+  "name": "time-parse",
+  "version": "0.0.1",
+  "description": "Module that formats the time entered by the user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": ["time", "time parsing"],
+  "author": "edbond88@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
